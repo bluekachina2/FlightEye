@@ -1,4 +1,4 @@
-# 🎥 FlightEye - RTSP Streaming & Internal Screen Recording App
+# 🎥 FlightEye - RTSP - Streaming & Internal Screen Recording App
 
 **FlightEye** is a powerful Android application built with **Kotlin** and **Jetpack Compose** that enables:
 
